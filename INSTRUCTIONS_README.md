@@ -14,11 +14,11 @@ Why does querySelectAll give us an array of elements?
 1. (X) Connect the given javascript file to your HTML 
 2. (X) Connect the given styles file to your HTML
 3. (X) Use the styles file to center the container class element in the middle of the screen using flexbox use a flex direction of column
-4.  In your HTML file, inside of the section element that has a class of "win-game-modal", Create a div in your HTML that has a class of modal and id of modal
-	1. add a child div to that modal and give it class of modal-content
-	2. The next 6 steps all happen in the div.modal-content element
-		1. add a span with an id of close
-		2. inside of the span with the id of close, type &times; in the opening and closing span tags.
+4. (X) In your HTML file, inside of the section element that has a class of "win-game-modal", Create a div in your HTML that has a class of modal and id of modal
+	1. (X) add a child div to that modal and give it class of modal-content
+	2.(X) The next 6 steps all happen in the div.modal-content element
+		1.(X) add a span with an id of close
+		2.(X) inside of the span with the id of close, type &times; in the opening and closing span tags.
 		3.  inform the user that they won and found all 8 pairs of cards
 		4. Show the vault-boy-thumb-up image
 		5. add a button with a class of btn and play-again-btn with text that reads "Play Again?"
